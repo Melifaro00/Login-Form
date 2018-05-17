@@ -26,7 +26,7 @@
 ?>
     <h2>Вход выполнен</h2>
     <?php echo "Привет, $login" ?> <br><br>
-    <button><a href="/send3.php">Задать вопрос</a></button>
+    <button><a href="/send.php">Задать вопрос</a></button>
     <form method="POST">        
         <input name="exit" type="submit" value="Выйти"></p>  
     </form>

@@ -25,7 +25,7 @@
     if ($_SESSION["auth"] == 0)
     {
 ?>
-  <button><a href="/send3.php">Задать вопрос</a></button>
+  <button><a href="/send.php">Задать вопрос</a></button>
   <button><a href="/login.php">Войти на сайт</a></button>
   <button><a href="/register.php">Зарегистрироваться</a></button>
   <hr>
